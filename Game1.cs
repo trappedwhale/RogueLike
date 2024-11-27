@@ -52,7 +52,7 @@ namespace RogueLike
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // player.png 이미지 로드 (이미지 경로는 실제 경로로 수정)
-            using (var fs = new FileStream("player.png", FileMode.Open))
+            using (var fs = new FileStream("Assets/player.png", FileMode.Open))
             {
                 _playerTexture = Texture2D.FromStream(GraphicsDevice, fs);
             }
