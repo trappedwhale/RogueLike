@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfjvhifbtqf5q"
-path="res://.godot/imported/2_City_Terrains_16x16.png-691b8306f2a2744953eb540249ce7937.ctex"
+path="res://.godot/imported/2_City_Terrains_16x16.png-301c6c9692a8e16eeceb1544bea8ee1b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tilemap/2_City_Terrains_16x16.png"
-dest_files=["res://.godot/imported/2_City_Terrains_16x16.png-691b8306f2a2744953eb540249ce7937.ctex"]
+source_file="res://sprites/2_City_Terrains_16x16.png"
+dest_files=["res://.godot/imported/2_City_Terrains_16x16.png-301c6c9692a8e16eeceb1544bea8ee1b.ctex"]
 
 [params]
 
